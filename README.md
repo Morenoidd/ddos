@@ -60,8 +60,8 @@ sudo apt install python3-pip -y
 
 ### 3. Clone the Repository
 ```bash
-git clone https://github.com/Morenoidd/DoS
-cd DoS
+git clone https://github.com/Morenoidd/ddos
+cd ddos
 ```
 
 ### 4. Install Dependencies
